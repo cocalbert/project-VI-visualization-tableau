@@ -1,9 +1,10 @@
-
 # Proyecto de Data Analysis: Análisis de datos de Airbnb en Nueva York
 
 
 
 Este proyecto tiene como objetivo analizar y visualizar los datos de Airbnb en la ciudad de Nueva York (2019). Se utilizó Python para combinar dos bases de datos relacionadas con Airbnb y se realizaron análisis posteriores utilizando Tableau para visualizar los datos de manera efectiva.
+
+Enlace al proyecto: https://public.tableau.com/app/profile/albert.coca/viz/airbnb_tableau_Story/Story1?publish=yes
 
 ## Descripción de los archivos
 
